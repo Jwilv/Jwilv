@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Jwilv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
 
-<!---
-Jwilv/Jwilv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://github.com/Jwilv/Jwilv/assets/100983338/0dd7465f-025a-4f0b-b32d-10deffc6a159
+
